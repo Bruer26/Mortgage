@@ -1,10 +1,10 @@
 /* ============================== typing animation ============================ */
 var typed = new Typed(".typing", {
   strings: [
-    "Software Engineer",
-    "Agile Scrum Master",
-    "Technical Project Manager",
-    "Human Being",
+    "Save You Money $$$",
+    "Secure Your Dream Home Purchase",
+    "Reduce Your Stress",
+    "Provide ou with the best Mortgage experience",
   ],
   typeSpeed: 100,
   BackSpeed: 60,
