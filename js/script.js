@@ -4,7 +4,7 @@ var typed = new Typed(".typing", {
     "Save You Money $$$",
     "Secure Your Dream Home Purchase",
     "Reduce Your Stress",
-    "Provide ou with the best Mortgage experience",
+    "Provide you with the best mortgage experience",
   ],
   typeSpeed: 100,
   BackSpeed: 60,
