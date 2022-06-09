@@ -5,8 +5,9 @@ var typed = new Typed(".typing", {
     "Secure Your Dream Home Purchase",
     "Reduce Your Stress",
     "Provide you with the best mortgage experience",
+    "Give you confidence in your selection of us!",
   ],
-  typeSpeed: 100,
+  typeSpeed: 75,
   BackSpeed: 60,
   loop: true,
 });
